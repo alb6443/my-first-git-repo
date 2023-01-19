@@ -1,6 +1,6 @@
 Homework 1 README
 ================
-Conributor: Aubrey L. Baker
+Contributor: Aubrey L. Baker
 
 Contents
 --------
@@ -11,6 +11,9 @@ Contents
 | script02.py  | uses the ``names`` module to print out **five** first names that are exactly eight characters each  |
 | script03.py  | uses the ``names`` module to generate a list of **five** different full names. Contains a defined function to determine the length of a given name (in number of characters, excluding spaces). Prints each name followed by the length of each name as an integer to screen ``[name], [character length]``.   |
 
+Required Files
+--------
+``words`` can be found in
 .. code-block:: text
 
-   ``words`` can be found in /usr/share/dict/words
+    /usr/share/dict/words
